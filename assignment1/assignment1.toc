@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Graph Search}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Question1.1}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Question1.2}{2}{}%
+\contentsline {section}{\numberline {2}Map to Graph}{3}{}%
+\contentsline {section}{\numberline {3}Dijkstra and A*}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Question3.1}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Question3.2}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Question3.3}{4}{}%
+\contentsline {section}{\numberline {4}Dijkstra}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Question4.1}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Question4.2}{5}{}%
