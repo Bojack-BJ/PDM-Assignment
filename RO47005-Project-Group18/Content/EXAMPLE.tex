@@ -1,0 +1,71 @@
+\section{EXAMPLES OF EDITING LATEX}
+
+\subsection{Equations}
+\begin{equation}
+    a = b + c
+    \label{eq1}
+\end{equation}
+
+\subsection{Figures}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\linewidth]{img/TUD.jpg}
+    \caption{TUD logo}
+    \label{TUD logo}
+\end{figure}
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.7\linewidth]{img/TUD.jpg}
+    \caption{Figure cross the line.}
+    \label{fig:system_dia}
+\end{figure*}
+
+
+\subsection{Algorithm}
+
+\begin{algorithm}[H]
+    \caption{What function do algorithms achieve}
+    \label{alg}
+    \SetAlgoLined
+    Initialization\\
+    \For{}{
+        \If{}{
+            \If{}{
+            }
+        }
+    }
+    
+    \Return{$1$}
+    
+\end{algorithm}
+
+
+\subsection{table}
+
+\begin{table}[H]
+\begin{center}
+    \begin{tabular}{@{} c  c @{}}
+    \toprule
+    Path          & Cost                                        \\
+    \midrule
+    1               & $\sqrt{21.25}$                            \\
+    2               & $\sqrt{145}$                              \\
+    3               & $\sqrt{10}$                               \\
+    4               & $\sqrt{41}$                               \\
+    5               & $3\sqrt{5}$                               \\
+    6               & $3\sqrt{10}$                              \\
+    7               & $5\sqrt{2}$                               \\
+    \bottomrule
+    \end{tabular}%
+    
+\caption{Dijkstra algorithm}
+\label{Dijkstra_2}
+\end{center}
+\end{table}
+
+\subsection{Citation}
+
+This is an example of citation\cite{dijkstra1959note}.
+
